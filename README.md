@@ -23,7 +23,8 @@ The project includes:
 
 ## Potential Use Cases
 
-Analyzing this dataset offers valuable insights into Target's Brazilian operations. Potential use cases include:
+Analyzing this dataset offers valuable insights into Target's Brazilian operations.
+Basic Queries
 1. List all unique cities where customers are located.
 2. Count the number of orders placed in 2017.
 3. Find the total sales per category.
